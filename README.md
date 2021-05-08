@@ -12,6 +12,11 @@ CLI tool could accept **4 options** (short alias and full name):
 
 -o, --output: an output file - "./path/to/file.txt"
 
+## Instalation
+
+```
+npm i
+```
 
 ## Usage example:
 
